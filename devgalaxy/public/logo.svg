@@ -1,0 +1,22 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <circle cx="256" cy="256" r="256" fill="#0f172a"/>
+
+  <!-- Galaxy swirl -->
+  <path d="M256 100c-86 0-156 70-156 156s70 156 156 156 156-70 156-156" 
+        stroke="#38bdf8" stroke-width="24" fill="none" stroke-linecap="round"/>
+
+  <circle cx="256" cy="256" r="40" fill="#38bdf8"/>
+
+  <!-- Stars -->
+  <circle cx="140" cy="200" r="10" fill="#facc15"/>
+  <circle cx="360" cy="180" r="8" fill="#f472b6"/>
+  <circle cx="320" cy="340" r="6" fill="#22c55e"/>
+  <circle cx="180" cy="330" r="5" fill="#e879f9"/>
+
+  <!-- Text -->
+  <text x="50%" y="480" font-family="Arial, Helvetica, sans-serif" font-size="48" 
+        fill="#fff" text-anchor="middle" font-weight="bold">
+    DevGalaxy
+  </text>
+</svg>

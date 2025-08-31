@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "title": "AI in Healthcare: Revolutionizing Patient Care",
+    "author": "Naveen",
+    "date": "2025-08-31",
+    "image": "https://media.istockphoto.com/id/2228457543/vector/gradient-ai-healthcare-robot-composition.webp?a=1&b=1&s=612x612&w=0&k=20&c=R8FOo3MOkjB0QFh_ZM_z7DjSqDzahtQYPczXGV3H_xU=",
+    "description": "AI is transforming the healthcare industry by improving diagnostics, treatment, and patient care. From medical imaging to drug discovery, the future of medicine is being redefined.",
+    "content": "Artificial Intelligence (AI) has emerged as a game-changer..."
+  },
+  {
+    "id": 2,
+    "title": "The Future of Fitness Apps in 2025",
+    "author": "Naveen",
+    "date": "2025-08-30",
+    "image": "https://media.istockphoto.com/id/1160058897/vector/isometric-concept-the-mobile-app-tracks-a-persons-training-athletic-training-weight-training.webp?a=1&b=1&s=612x612&w=0&k=20&c=_pf190oEbCjafM5psdaYz7nEOVNDD-6U58ipIF_7Mp0=",
+    "description": "Fitness apps have grown beyond step counters. They now integrate AI, VR, and wearable tech to create immersive fitness experiences. Here’s what the future holds.",
+    "content": "Fitness technology has rapidly evolved..."
+  },
+  {
+    "id": 3,
+    "title": "E-Commerce Dashboards: Data-Driven Business in Action",
+    "author": "Naveen",
+    "date": "2025-08-29",
+    "image": "https://plus.unsplash.com/premium_vector-1731993040166-ec375ac076ff?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RSUyMENvbW1lcmNlJTIwRGFzaGJvYXJkcyUzQSUyMERhdGElMjBEcml2ZW4lMjBCdXNpbmVzcyUyMGluJTIwQWN0aW9ufGVufDB8fDB8fHww",
+    "description": "E-commerce businesses thrive on data. Dashboards provide real-time insights on sales, customer behavior, and performance to drive smarter decisions.",
+    "content": "In the fast-paced world of e-commerce..."
+  },
+  {
+    "id": 4,
+    "title": "Blockchain Beyond Cryptocurrency",
+    "author": "Naveen",
+    "date": "2025-08-28",
+    "image": "https://images.unsplash.com/photo-1556740749-887f6717d7e4?auto=format&fit=crop&w=600&q=80",
+    "description": "Exploring how blockchain technology is transforming industries beyond finance, from supply chain management to digital identity verification.",
+    "content": "Blockchain technology is reshaping more than just currencies..."
+  },
+  
+  {
+  "id": 5,
+  "title": "Sustainable Tech Innovations in 2025",
+  "author": "Naveen",
+  "date": "2025-08-28",
+  "image": "https://media.istockphoto.com/id/2175533054/vector/2025-new-year-concept-with-glowing-recycle-symbol-on-dark-blue-background-eco-friendly-design.webp?a=1&b=1&s=612x612&w=0&k=20&c=D6EB6x4EXr32vmol6kbTDZXKC3HrYGqJIxXWnl8HHdg=",
+  "description": "Exploring how sustainable technology is transforming industries and contributing to a greener future. From renewable energy to eco-friendly gadgets, discover the innovations shaping 2025.",
+  "content": "Sustainable technology has taken center stage in the fight against climate change. Innovations in renewable energy, electric vehicles, and eco-conscious manufacturing processes are not only reducing carbon footprints but also opening new markets and opportunities. In 2025, the push towards green tech continues to accelerate, driven by both policy and consumer demand. Companies investing in sustainable solutions are positioning themselves as leaders in a rapidly evolving market."
+},
+
+  
+
+{
+  "id": 6,
+  "title": "The Rise of Quantum Computing",
+  "author": "Naveen",
+  "date": "2025-08-27",
+  "image": "https://media.istockphoto.com/id/1396278372/photo/circuit-board-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=QSIO7G9cjf5gCSkhZVMAKn6KzeioN_hWRE7eoTs_zp8=",
+  "description": "Quantum computing promises to revolutionize data processing with speeds far beyond traditional computers. Learn how it works and its potential impact across industries.",
+  "content": "Quantum computing harnesses the principles of quantum mechanics to perform complex calculations at unprecedented speeds..."
+},
+{
+  "id": 7,
+  "title": "AI Ethics: Navigating the Future",
+  "author": "Naveen",
+  "date": "2025-08-26",
+  "image": "https://plus.unsplash.com/premium_photo-1744625362366-81d9b9cac07d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YWklMjBldGhpY3N8ZW58MHx8MHx8fDA%3D",
+  "description": "As AI becomes more integrated into daily life, ethical concerns arise. Explore the challenges of AI bias, privacy, and accountability in this evolving field.",
+  "content": "With the rapid advancement of AI, ethical considerations are more important than ever. Issues like algorithmic bias, data privacy, and transparency need to be addressed..."
+},
+{
+  "id": 8,
+  "title": "Augmented Reality in Retail",
+  "author": "Naveen",
+  "date": "2025-08-25",
+  "image": "https://media.istockphoto.com/id/1324380506/photo/people-with-vr-grasses-playing-virtual-reality-game-future-digital-technology-and-3d-virtual.webp?a=1&b=1&s=612x612&w=0&k=20&c=i8vHSeffMXOknM1iu8QDnSEDuNg0nOoLjJvP-KjdRoE=",
+  "description": "Augmented Reality (AR) is reshaping the retail experience by allowing customers to visualize products in real-time. Discover how AR is driving customer engagement.",
+  "content": "Retailers are increasingly using AR technology to offer immersive shopping experiences, helping customers try products virtually before buying..."
+}
+
+]

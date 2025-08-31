@@ -1,0 +1,25 @@
+{
+  "name": "devgalaxy",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "clean": "rimraf node_modules package-lock.json"
+  },
+  "dependencies": {
+    "lucide-react": "^0.542.0",
+    "next": "15.5.2",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.0",
+    "eslint": "^8.0.0",
+    "postcss": "^8.5.0",
+    "rimraf": "^6.0.1",
+    "tailwindcss": "^4.1.12"
+  }
+}
